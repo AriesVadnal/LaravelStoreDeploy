@@ -25,7 +25,7 @@
                          + Tambah Ketegori Baru
                         </a>
                         <div class="table-responsive">
-                         <table class="table table-hover scroll-horizontal-vertical w-100" id="table_id">
+                         <table class="table table-hover scroll-horizontal-vertical w-100">
                           <thead>
                            <tr>
                             <th>ID</th>
